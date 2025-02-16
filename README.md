@@ -181,7 +181,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Embrace the future of troubleshooting with **AI-AI-Sist for Troubleshooting** – where innovative technology meets next-generation design.
 ```
-
----
-
-This version includes improved formatting, clear sections, and placeholders for screenshots and banner images to help your GitHub repository stand out with a futuristic flair. Feel free to update the placeholder links and images as needed!
