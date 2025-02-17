@@ -1,4 +1,4 @@
-# AI-AI-Sist for Troubleshooting
+# AI-AIsist for Troubleshooting
 
 [![Deployed on Render](https://img.shields.io/badge/Render-Deployed-blue?style=flat&logo=render)](https://ai-aissit-for-troubleshooting.onrender.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
